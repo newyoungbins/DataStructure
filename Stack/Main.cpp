@@ -1,6 +1,7 @@
 ﻿#include "Stack.h"
 #include <iostream>
 #include <random>
+#include <stack>
 
 int main()
 {
@@ -26,6 +27,11 @@ int main()
 		// 스택에 추가.
 		expStack.Push(exp);
 	}
+
+	//float expValue = 0.0f;
+	//if (expStack.Pop(expValue))
+	//{
+	//}
 
 	// 스택에 저장된 값 출력.
 	float expValue = 0.0f;
