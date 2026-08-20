@@ -1,8 +1,11 @@
 ﻿#include "LinkedList.h"
 #include <iostream>
+#include <list>
 
 int main()
 {
+
+	
 	LinkedList<int> list;
 	list.AddToHead(10);
 	list.AddToHead(20);
