@@ -3,6 +3,7 @@
     <Platform Name="x64" />
   </Configurations>
   <Project Path="Array/Array.vcxproj" Id="af7026aa-b992-43e0-a1f6-6c72f147976f" />
+  <Project Path="Deque/Deque.vcxproj" Id="f18653bc-9bf4-4aed-a251-570c9119148e" />
   <Project Path="List/List.vcxproj" Id="eb9007d7-d276-4545-b116-bf7a77c641d4" />
   <Project Path="Queue/Queue.vcxproj" Id="8be5d766-1a2d-4def-8b12-dafc515f6249" />
   <Project Path="QueueMaze/QueueMaze.vcxproj" Id="ddb534b8-03a0-4bbc-9bb5-bafd2ece3744" />
