@@ -11,4 +11,5 @@
   <Project Path="SingleLinkedList/SingleLinkedList.vcxproj" Id="a35e9cbf-e859-4491-9e45-ab6ad3c72a14" />
   <Project Path="Stack/Stack.vcxproj" Id="3355ea37-c788-46f9-adcd-a6ec618d88e6" />
   <Project Path="StackMaze/StackMaze.vcxproj" Id="ef54c131-7ede-455d-98b3-3730347dac9d" />
+  <Project Path="Tree/Tree.vcxproj" Id="07006a14-1fb1-4ed5-a13c-4019be08c0d0" />
 </Solution>

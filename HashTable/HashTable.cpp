@@ -9,7 +9,7 @@ HashTable::HashTable()
 HashTable::~HashTable()
 {
     // 모두 제거하는 함수 호출.
-    //Clear();
+    Clear();
 }
 
 bool HashTable::Add(const std::string& key, const std::string& value)
